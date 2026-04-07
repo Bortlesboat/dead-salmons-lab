@@ -13,9 +13,8 @@ The custom extension is the **signal-strength slider**. Start in a pure null reg
 
 ## Live Notebook
 
-- `molab` link: to be updated after publication
+- `molab` link: https://molab.marimo.io/github/Bortlesboat/dead-salmons-lab/blob/main/the_dead_salmons_lab.py
 
 ## Submission Blurb
 
 > This notebook turns *The Dead Salmons of AI Interpretability* into a fast interactive lab. It recreates the paper's false-discovery failure mode with a frozen random MLP on synthetic data, then adds a planted-signal slider to show when multiple-testing correction, search-matched nulls, and uncertainty estimation finally begin to separate real signal from dead-salmon artifacts.
-
